@@ -1,0 +1,36 @@
+div.header {
+    height: 140px;
+    width: 980px;
+    text-align: center;
+    background-color: aquamarine;
+    border: solid;
+    position: relative;
+}
+
+div.sidebar {
+    height: 450px;
+    width: 270px;
+    text-align: center;
+    background-color: rgb(211, 17, 201);
+    border: solid;
+    float: left;
+    margin-top: 10px;
+}
+
+div.content {
+    height: 450px;
+    width: 690px;
+    text-align: center;
+    background-color: rgb(168, 106, 36);
+    border: solid;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+div.footer {
+    height: 70px;
+    width: 980px;
+    text-align: center;
+    background-color: blue;
+    border: solid;
+}
